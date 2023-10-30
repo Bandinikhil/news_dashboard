@@ -13,5 +13,6 @@ To set up this project, follow these steps:
    ```bash
    git clone https://github.com/Bandinikhil/news_dashboard.git
 
-2. Change your current directory to the project folder:   
+2. Change your current directory to the project folder: 
+   ```bash
    cd news-dashboard
