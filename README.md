@@ -7,6 +7,20 @@ This project is a News Dashboard web application built using React. It fetches a
 ## Deployed link
 [News_Dashboard](https://newsdashboards.netlify.app/)
 
+## ScreenShots
+
+![Screenshot (125)](https://github.com/Bandinikhil/news_dashboard/assets/105233916/b734924c-17bb-4f0c-a0f9-dd2fc0934fa5)
+
+<br>
+
+![Screenshot (126)](https://github.com/Bandinikhil/news_dashboard/assets/105233916/e8bc47d8-2ce9-4023-b15d-1577ebe4653f)
+
+<br>
+
+![Screenshot (127)](https://github.com/Bandinikhil/news_dashboard/assets/105233916/80e77f30-97a0-47a7-b547-545aa7882bb5)
+
+<br>
+
 
 ## Project Setup
 
@@ -33,19 +47,8 @@ To set up this project, follow these steps:
      # or
     yarn start.
 
-## ScreenShots
 
-![Screenshot (125)](https://github.com/Bandinikhil/news_dashboard/assets/105233916/b734924c-17bb-4f0c-a0f9-dd2fc0934fa5)
 
-<br>
-
-![Screenshot (126)](https://github.com/Bandinikhil/news_dashboard/assets/105233916/e8bc47d8-2ce9-4023-b15d-1577ebe4653f)
-
-<br>
-
-![Screenshot (127)](https://github.com/Bandinikhil/news_dashboard/assets/105233916/80e77f30-97a0-47a7-b547-545aa7882bb5)
-
-<br>
 
 
 ### Fetch News Data
