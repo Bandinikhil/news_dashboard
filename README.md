@@ -16,3 +16,19 @@ To set up this project, follow these steps:
 2. Change your current directory to the project folder: 
    ```bash
    cd news-dashboard
+
+3. Install the project dependencies using npm or yarn:
+   ```bash
+   npm install
+    # or
+   yarn install
+
+
+4.Start the development server: 
+   ```bash
+npm start
+# or
+yarn start
+
+
+      
