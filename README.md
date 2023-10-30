@@ -11,4 +11,7 @@ To set up this project, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/news-dashboard.git
+   git clone https://github.com/Bandinikhil/news_dashboard.git
+
+2. Change your current directory to the project folder:   
+   cd news-dashboard
